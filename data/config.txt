@@ -1,0 +1,9 @@
+nif = 2 
+nfd = 40 20 
+ncl = 2 
+scw = 5 3 
+ncr = 20 10  
+ncm = 7 13 
+Ktop = 5 
+nhl = 1 
+nhr = 10
